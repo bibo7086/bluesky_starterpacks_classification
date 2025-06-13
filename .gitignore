@@ -88,6 +88,8 @@ downloaded_posts/
 !playground/paper_1_plots.ipynb
 !playground/starter_packs.ipynb
 !playground/notebooks/
+!classified_posts/
+
 
 # Large files
 dids_and_paths/
@@ -142,3 +144,9 @@ profiles_with_academic_keywords.csv
 profiles_with_academic_keywords_first_10000.csv
 indexing_delay_results.csv
 feed_generators.sql
+classified_negative_posts_now.csv
+classified_negative_posts_tests.csv
+classified_neutral_posts.csv
+classified_neutral_posts.csv
+classified_positive_posts_updated.csv
+starterpacks_with_classifications_istanbul_1.csv
